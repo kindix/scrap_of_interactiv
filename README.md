@@ -1,4 +1,7 @@
-# scrap_of_interactiv
-parse file
+# Scraping of interactiv (www.inter.if.ua)
 
-but only for one category
+With @kindix
+
+Parse file
+
+This file for only one category in www.inter.if.ua
