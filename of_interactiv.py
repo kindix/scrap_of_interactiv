@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*- 
-#! /usr/bin/env python
 import csv
 from bs4 import BeautifulSoup
 import requests
